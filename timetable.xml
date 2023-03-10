@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lessons>
+		<lesson>
+			<parity-of-week> нечетная неделя </parity-of-week>
+			<time> 08:20-09:50 </time>
+			<place> ул.Ломоносова, д.9, лит. М </place>
+			<room> Актовый зал </room>
+			<name> Информатика (лек) </name>
+			<teacher> Балакшин Павел Валерьевич </teacher>
+			<lesson-format> Очно - дистанционный </lesson-format>
+		</lesson>
+		<lesson>
+			<parity-of-week> нечетная неделя </parity-of-week>
+			<time> 10:00-11:30 </time>
+			<place> ул.Ломоносова, д.9, лит. М </place>
+			<room> Актовый зал </room>
+			<name> ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ (ЛЕК) </name>
+			<teacher> Клименков Сергей Викторович </teacher>
+			<lesson-format> Очно - дистанционный </lesson-format>
+		</lesson>
+		<lesson>
+			<parity-of-week> нечетная неделя </parity-of-week>
+			<time> 11:40-13:10 </time>
+			<place> ул.Ломоносова, д.9, лит. М </place>
+			<room> 1223 АУД. </room>
+			<name> ПРОГРАММИРОВАНИЕ(ЛЕК) </name>
+			<teacher> Письмак Алексей Евгеньевич </teacher>
+			<lesson-format> Очно - дистанционный </lesson-format>
+		</lesson>
+</lessons>
